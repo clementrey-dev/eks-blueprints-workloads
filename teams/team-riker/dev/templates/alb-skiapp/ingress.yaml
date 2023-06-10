@@ -21,7 +21,7 @@ spec:
             pathType: Prefix
             backend:
               service:a
-                name: skiapp-service
-                port:
-                  number: 80
+              name: skiapp-service
+              port:
+                number: 80
 
